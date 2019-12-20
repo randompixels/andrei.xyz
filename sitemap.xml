@@ -3,20 +3,27 @@
   
   <url>
     <loc>https://andrei.xyz/a-record-a-day-keeps-the-doctor-away/</loc>
-    <lastmod>2019-12-15T14:04:40+03:00</lastmod>
+    <lastmod>2019-12-20T20:04:40+03:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://andrei.xyz/a-record-a-day-keeps-the-doctor-away/ac-dc-highway-to-hell/</loc>
-    <lastmod>2019-12-15T14:04:40+03:00</lastmod>
+    <loc>https://andrei.xyz/a-record-a-day-keeps-the-doctor-away/alexandru-andries-iese-la-pensie/</loc>
+    <lastmod>2019-12-20T20:04:40+03:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://andrei.xyz/</loc>
+    <lastmod>2019-12-20T20:04:40+03:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://andrei.xyz/a-record-a-day-keeps-the-doctor-away/ac-dc-highway-to-hell/</loc>
     <lastmod>2019-12-15T14:04:40+03:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
