@@ -6,10 +6,19 @@
     <description>Recent content on andrei.xyz — A Record A Day Keeps The Doctor Away</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 20 Dec 2019 20:04:40 +0300</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jul 2019 15:45:38 +0300</lastBuildDate>
     
 	<atom:link href="https://andrei.xyz/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Roadkill Soda – Sagrada</title>
+      <link>https://andrei.xyz/a-record-a-day-keeps-the-doctor-away/roadkillsoda-sagrada/</link>
+      <pubDate>Wed, 10 Jun 2020 20:04:40 +0300</pubDate>
+      
+      <guid>https://andrei.xyz/a-record-a-day-keeps-the-doctor-away/roadkillsoda-sagrada/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Alexandru Andrieș - Iese La Pensie</title>
@@ -2241,15 +2250,6 @@
       
       <guid>https://andrei.xyz/old-versions/</guid>
       <description>2019-06-13: /ipfs/\n\n</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://andrei.xyz/stats/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://andrei.xyz/stats/</guid>
-      <description>  .grapx { width:30vw; margin: 1.5vw; float: left; }       </description>
     </item>
     
     <item>

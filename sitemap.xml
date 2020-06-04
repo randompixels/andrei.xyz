@@ -3,20 +3,20 @@
   
   <url>
     <loc>https://andrei.xyz/a-record-a-day-keeps-the-doctor-away/</loc>
-    <lastmod>2019-12-20T20:04:40+03:00</lastmod>
+    <lastmod>2020-06-10T20:04:40+03:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://andrei.xyz/a-record-a-day-keeps-the-doctor-away/roadkillsoda-sagrada/</loc>
+    <lastmod>2020-06-10T20:04:40+03:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://andrei.xyz/a-record-a-day-keeps-the-doctor-away/alexandru-andries-iese-la-pensie/</loc>
-    <lastmod>2019-12-20T20:04:40+03:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://andrei.xyz/</loc>
     <lastmod>2019-12-20T20:04:40+03:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -74,6 +74,13 @@
   <url>
     <loc>https://andrei.xyz/a-record-a-day-keeps-the-doctor-away/boogie-belgique-volta-reissue/</loc>
     <lastmod>2019-10-05T00:20:28+03:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://andrei.xyz/</loc>
+    <lastmod>2019-07-17T15:45:38+03:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -1739,7 +1746,8 @@
   
   <url>
     <loc>https://andrei.xyz/markdown/test/</loc>
-    <priority>0</priority>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
@@ -1748,13 +1756,9 @@
   </url>
   
   <url>
-    <loc>https://andrei.xyz/stats/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://andrei.xyz/tools/morti-masii/</loc>
-    <priority>0</priority>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
