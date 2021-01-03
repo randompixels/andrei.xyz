@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://andrei.xyz/random/</loc>
+    <lastmod>2021-01-03T01:01:00+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://andrei.xyz/a-record-a-day-keeps-the-doctor-away/</loc>
     <lastmod>2021-01-02T00:04:40+03:00</lastmod>
     <changefreq>weekly</changefreq>

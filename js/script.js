@@ -12,6 +12,7 @@ jQuery(document).ready(function($){
 	$('.random-colour').each(function(){
 		$(this).css('color', colors[Math.floor(Math.random()*colors.length)]);
 	});
+	$('.shuffle g').css('fill', colors[Math.floor(Math.random()*colors.length)]);
 	$(document).on({
 		click: function(){
 			$link = jQuery(this).attr('data-link');

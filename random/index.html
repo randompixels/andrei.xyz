@@ -1,0 +1,10 @@
+<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+	fetch('/index.json').then(res => res.json()).then((feed) => {
+		let random = Math.floor(Math.random() * feed.length);
+		window.location.replace(feed[random].uri);
+	}).catch(err => {
+		throw err
+	});
+});
+</script>
