@@ -57,4 +57,10 @@ jQuery(document).ready(function($){
 		theme: "round"
 	};
 	$("#search").easyAutocomplete(options);
+	fetch('/index.json').then(res => res.json()).then((feedx) => {
+		$('.shuffle').attr('data-text', feedx.length+' records');
+		console.log(feedx);
+	}).catch(err => {
+		throw err
+	});
 });
