@@ -2,6 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://andrei.xyz/a-record-a-day-keeps-the-doctor-away/</loc>
+    <lastmod>2021-04-01T00:04:40+03:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://andrei.xyz/</loc>
+    <lastmod>2021-04-01T00:04:40+03:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://andrei.xyz/a-record-a-day-keeps-the-doctor-away/various-singles-original-motion-picture-soundtrack/</loc>
+    <lastmod>2021-04-01T00:04:40+03:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://andrei.xyz/random/</loc>
     <lastmod>2021-01-03T01:01:00+02:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -9,14 +30,7 @@
   </url>
   
   <url>
-    <loc>https://andrei.xyz/a-record-a-day-keeps-the-doctor-away/</loc>
-    <lastmod>2021-01-02T00:04:40+03:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://andrei.xyz/</loc>
+    <loc>https://andrei.xyz/a-record-a-day-keeps-the-doctor-away/tom-holkenborg-aka-junkie-xl-mad-max-fury-road-soundtrack/</loc>
     <lastmod>2021-01-02T00:04:40+03:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -24,13 +38,6 @@
   
   <url>
     <loc>https://andrei.xyz/a-record-a-day-keeps-the-doctor-away/various-rocketman-music-from-the-motion-picture/</loc>
-    <lastmod>2021-01-02T00:04:40+03:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://andrei.xyz/a-record-a-day-keeps-the-doctor-away/various-rocketman-music-from-the-motion-picture-2/</loc>
     <lastmod>2021-01-01T00:04:40+03:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -1896,12 +1903,6 @@
   </url>
   
   <url>
-    <loc>https://andrei.xyz/tools/morti-masii/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://andrei.xyz/categories/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -1915,12 +1916,6 @@
   
   <url>
     <loc>https://andrei.xyz/tags/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://andrei.xyz/tools/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
