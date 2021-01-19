@@ -3,14 +3,21 @@
   
   <url>
     <loc>https://andrei.xyz/a-record-a-day-keeps-the-doctor-away/</loc>
-    <lastmod>2021-04-18T00:04:40+03:00</lastmod>
+    <lastmod>2021-04-19T00:04:40+03:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://andrei.xyz/</loc>
-    <lastmod>2021-04-18T00:04:40+03:00</lastmod>
+    <lastmod>2021-04-19T00:04:40+03:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://andrei.xyz/a-record-a-day-keeps-the-doctor-away/hooverphonic-with-orchestra-live/</loc>
+    <lastmod>2021-04-19T00:04:40+03:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
